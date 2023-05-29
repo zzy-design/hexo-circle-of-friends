@@ -16,7 +16,7 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: http://codey.cc/link/
+- link: http://codey.cc/fcircle/
   theme: volantis
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
